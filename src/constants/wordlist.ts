@@ -16,7 +16,6 @@ export const WORDS = [
   'qiqta',
   'skuen',
   'natha',
-  "ts'oi",
   'hueya',
   'koman',
   'mutak',
