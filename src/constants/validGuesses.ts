@@ -16,7 +16,6 @@ export const VALIDGUESSES = [
   'qiqta',
   'skuen',
   'natha',
-  "ts'oi",
   'hueya',
   'koman',
   'mutak',
