@@ -6,9 +6,9 @@ export const WORDS = [
   'kamut',
   'kawai',
   'kochi',
-  'q\'iya',
+  "q'iya",
   'matha',
-  'ts\'ta',
+  "ts'ta",
   'suwue',
   'xowal',
   'beheb',
@@ -16,7 +16,7 @@ export const WORDS = [
   'qiqta',
   'skuen',
   'natha',
-  'ts\'oi',
+  "ts'oi",
   'hueya',
 ]
 
