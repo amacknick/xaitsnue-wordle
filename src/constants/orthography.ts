@@ -23,6 +23,7 @@ export const ORTHOGRAPHY = [
   'm',
   'n',
   'c',
+  'd',
 ]
 
 if (CONFIG.normalization) {
